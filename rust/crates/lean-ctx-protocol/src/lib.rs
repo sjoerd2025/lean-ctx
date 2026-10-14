@@ -46,6 +46,7 @@ pub mod knowledge;
 pub mod knowledge_routing;
 pub mod outcome;
 pub mod outcome_engine;
+pub mod release_lifecycle;
 pub mod rollout;
 pub mod runtime_exchange;
 pub mod runtime_frame;
