@@ -11,6 +11,7 @@ mod seat_value;
 mod team_seat_value_capability;
 mod usage;
 
+pub mod agent_run_lifecycle;
 pub mod auto_routing;
 mod capability;
 pub mod circuit_breaker;
